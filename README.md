@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Algessi</h1>
+![logo](https://github.com/Algessi/Algessi/blob/main/Banner-GitHub.png)
+<h1 align="center">Hi👋, I'm Algessi</h1>
 <h3 align="center">A 2nd-year Computer Science student.</h3>
 
 <img align="right" alt="coding" width="330" src="https://user-images.githubusercontent.com/112060534/221888032-97725915-952f-4f3a-977b-6231255333ee.png">
@@ -13,7 +14,7 @@
 
 - 👯 Goal for 2023: Contribute to **Open-Source projects.**
 
-- 📫 How to reach me **itsmealtheajanine@gmail.com**
+- 📫 How to reach me: **itsmealtheajanine@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
