@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Algessi</h1>
 <h3 align="center">A 2nd-year Computer Science student.</h3>
 
-<img align="right" alt="coding" width="400" src="!https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align="right" alt="coding" width="330" src="https://user-images.githubusercontent.com/112060534/221888032-97725915-952f-4f3a-977b-6231255333ee.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algessi&label=Profile%20views&color=0e75b6&style=flat" alt="algessi" /> </p>
 
